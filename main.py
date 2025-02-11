@@ -38,7 +38,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.ibb.co/2d8ZWsP/IMG-20250112-102155.jpg');
+    background-image: url('https://i.ibb.co/Fk3jDDh1/e1eb5fbc674e213aa360897ba03d2284.gif');
     background-size: cover;
     background-repeat: no-repeat;
     
